@@ -10,7 +10,7 @@ Meu nome é **José Silveira**, sou estudante de **Desenvolvimento de Sistemas**
 ## 📱 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-silveira-518552432/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](josesilveirafrancasp)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](josesilveirafrancasp@gmail.com)
 
 <!--
 **josesilveira865/josesilveira865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
