@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá! Bem-vindo ao meu perfil. ## Sobre mim... Meu nome é José Silveira, sou estudante de Desenvolvimento de Sistema na ETEC/SP No momento estou aprendendo sobre Python na Disciplina Desenvolvimento de Sistema ( 👋
 
 <!--
 **josesilveira865/josesilveira865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
