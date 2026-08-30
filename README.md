@@ -1,6 +1,6 @@
-# Olá! Bem-vindo ao meu perfil 👋
+# Olá! Seja bem-vindo ao meu perfil 👋
 
-Meu nome é **José Silveira**, sou estudante de **Desenvolvimento de Sistemas** na ETEC/SP. No momento estou aprendendo sobre **Python** na Disciplina Desenvolvimento de Sistema I.
+Meu nome é **José  Otacílio de Paula Silveira**, sou estudante de **Desenvolvimento de Sistemas** na ETEC/SP. No momento estou aprendendo sobre **Python** na Disciplina Desenvolvimento de Sistema I. Desejo aprender mais para me tornar um bom profissional!
 
 ## 🛠️ Tecnologias que estou aprendendo
 
